@@ -8,6 +8,8 @@
       * React
 3.  Re-create a app previously built on Rails in Express/React.
 4.  Continue Code Challenges
+5.  Consider--after this ends could you extend this into a year of quality commits?
+     * Where quality = you learned something, improved something, challenged yourself
 
 ## D1:
 * Overwhelmed by the amount I want to accomplish in a short period of time.
